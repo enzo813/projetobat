@@ -52,3 +52,6 @@ body{
     font-size: 48px;
     margin-bottom: 0.2em;
 }
+.container__descricao{
+    padding: 2em;
+}
